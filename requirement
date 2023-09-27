@@ -1,0 +1,10 @@
+Search “LOST” in Site Name, exclude them in all following report. 			
+All the following tasks need to be done according to the priority number. 			
+Priority 	Tab #	Tab Name	Instruction
+1	Tab 1	Occupier Accounts	 Search “occup” in Account Name, cut and paste to new sheet and re-name the sheet to Occupant Accounts. Clear filter in the main sheet.
+2	Tab 2	Disconnection List	In Credit Control Status, choose “Standard Credit Control Procedure”. In Account Status, select “open” & “Mix”. In overdue balance column, number filter greater or equal to $300. Cut and paste into new sheet and re-name the sheet as disconnection list. Clear Filter in main sheet.
+3	Tab 3	Pass to Third Party	In the Account Status, choose “Closed”, in the overdue balance column, number filter greater or equal to $100. Cut and past to new sheet and re-name as To be pass to Third Party Collection Agent. Clear Filter in the main sheet. 
+4	Tab 4	Outsourced	In the credit control status, choose “Outsourced to DCA”, Cut and past to new sheet and rename the sheet as Outsourced. Clear filter in the main sheet
+5	Tab 5	Hardship	In the credit control status, choose “Payment Plan”, “Smooth Pay”, “Hardship”, cut and paste to a new sheet and rename as hardship. 
+6	Tab 6	Call List	In the credit control status, choose “Standard credit control status”, cut and paste to a new sheet and rename the sheet as Collection Call List
+7	Tab 7	Double Check	Clear the filter in the main sheet and re-name it as Double Check
